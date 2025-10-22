@@ -5,12 +5,13 @@ Done-
 
 BTC Widget
 
+
 To do-
 
 Clock
-Calender
-Ethereum Widget
-Currency Exchange Rates
-To-Do List / Notes
-Theme Swapper
+/Calender
+/Ethereum Widget
+/Currency Exchange Rates
+/To-Do List / Notes
+/Theme Swapper
 
